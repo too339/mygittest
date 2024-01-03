@@ -7,6 +7,7 @@
 <title>First.jsp</title>
 </head>
 <body>
-
+	<h1>力格1</h1>
+	<h2>力格2</h2>
 </body>
 </html>
