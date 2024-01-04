@@ -1,15 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>First.jsp</title>
 </head>
 <body>
-	<h1>力格1</h1>
-	<h2>力格2</h2>
-	<h3>力格3</h3>
-	<h4>力格4</h4>
+	<h1>鞝滊1</h1>
+	<h2>鞝滊2</h2>
+	<h3>鞝滊3</h3>
+	<h4>鞝滊4</h4>
 </body>
 </html>
